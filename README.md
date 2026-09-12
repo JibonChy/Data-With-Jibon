@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Data-With-Jibon/Data-With-Jibon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JibonChowdhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
